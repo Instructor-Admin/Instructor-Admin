@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Instructor-Team8/garbage/main/github-header-banner(1).png" alt="banner">
+![preview](https://raw.githubusercontent.com/Instructor-Admin/KOMBAIN_Z/refs/heads/main/IMAGES/photo_2026-05-18%2000.09.04.jpeg?token=GHSAT0AAAAAAD2XPXY6XQNCMZQEYKSXLNTQ2QKF34Q)
 
 <br>
 
@@ -39,5 +39,6 @@
 </p>
 
 
-![preview](https://github.com/Instructor-Admin/KOMBAIN_Z/blob/main/IMAGES/311aeefb-1d32-4f17-8dea-a3361f062d9a.png?raw=true)
+![preview](https://raw.githubusercontent.com/Instructor-Admin/KOMBAIN_Z/refs/heads/main/IMAGES/photo_2026-05-18%2000.09.45.jpeg?token=GHSAT0AAAAAAD2XPXY6QESM5OIQRORX4HOY2QKF5MA)
+
 </div>
