@@ -38,6 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28">
 </p>
 
-<img src="https://raw.githubusercontent.com/Instructor-Team8/garbage/main/photo_2026-02-04_16-03-24.jpg" alt="My history of evil">
 
+![preview](https://github.com/Instructor-Admin/KOMBAIN_Z/blob/main/IMAGES/311aeefb-1d32-4f17-8dea-a3361f062d9a.png?raw=true)
 </div>
