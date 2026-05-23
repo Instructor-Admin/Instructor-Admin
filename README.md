@@ -1,6 +1,6 @@
 <div align="center">
 
-![preview](https://raw.githubusercontent.com/Instructor-Admin/KOMBAIN_Z/refs/heads/main/IMAGES/photo_2026-05-18%2000.09.04.jpeg?token=GHSAT0AAAAAAD2XPXY6XQNCMZQEYKSXLNTQ2QKF34Q)
+![preview](1.jpeg)
 
 <br>
 
@@ -39,6 +39,5 @@
 </p>
 
 
-![preview](https://raw.githubusercontent.com/Instructor-Admin/KOMBAIN_Z/refs/heads/main/IMAGES/photo_2026-05-18%2000.09.45.jpeg?token=GHSAT0AAAAAAD2XPXY6QESM5OIQRORX4HOY2QKF5MA)
-
+![preview](2.jpeg)
 </div>
